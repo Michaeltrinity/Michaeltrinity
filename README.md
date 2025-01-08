@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Michael Trinity 🥂
 
-<!--
-**Michaeltrinity/Michaeltrinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Cloud Techincal Advisor, DevOps Enthusiast, and 3x AWS Certified.
 
-Here are some ideas to get you started:
+- 💼 Currently exploring new opportunities in tech.
+- 💻 Technologies: AWS, Python, sql, Terraform, Docker, Kubernetes
+- 🧑‍💻 Working on: Building cloud-native applications and diving deep into security and AI/ML solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Work
+Here are some of my projects you can explore:
+
+- [My Medium Portfolio](https://medium.com/@michaeltrinity)
+- [My LinkedIn](https://www.linkedin.com/in/michaeltrinity/)
+- [AWS Cloud Tutorials on Medium](https://medium.com/@michaeltrinity/aws-cloud-tutorials)
+
+## 🎯 What I'm Currently Learning
+- Diving deeper into MLOps
+- Exploring the latest trends in vulnerability management
+- Enhancing my expertise in cybersecurity, particularly detection & response
+
+## 📝 Let's Connect!
+Feel free to connect with me for collaborations, job opportunities, or anything tech-related.
+
+- Email: [michael@example.com](mailto:michael@example.com) _(Add your email)_
+- LinkedIn: [Michael Trinity on LinkedIn](https://www.linkedin.com/in/michaeltrinity/)
+- Medium: [Follow me on Medium](https://medium.com/@michaeltrinity)
+
+Thank you for visiting my profile!
+
