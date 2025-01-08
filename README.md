@@ -9,9 +9,8 @@ Welcome to my GitHub profile! I'm a Cloud Techincal Advisor, DevOps Enthusiast, 
 ## 📂 My Work
 Here are some of my projects you can explore:
 
-- [My Medium Portfolio](https://medium.com/@michaeltrinity)
 - [My LinkedIn](https://www.linkedin.com/in/michaeltrinity/)
-- [AWS Cloud Tutorials on Medium](https://medium.com/@michaeltrinity/aws-cloud-tutorials)
+- [AWS Cloud Tutorials on Medium](https://medium.com/@michaeltrinity)
 
 ## 🎯 What I'm Currently Learning
 - Diving deeper into AI
@@ -23,7 +22,7 @@ Feel free to connect with me for collaborations, job opportunities, or anything 
 
 - Email: [M9trinity@gmail.com](mailto:m9trinity@gmail.com)
 - LinkedIn: [Michael Trinity on LinkedIn](https://www.linkedin.com/in/michaeltrinity/)
-- Medium: [Follow me on Medium](https://medium.com/@michaeltrinity)
+- Medium: [Follow me](https://medium.com/@michaeltrinity)
 
 Thank you for visiting my profile!
 
