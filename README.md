@@ -14,9 +14,9 @@ Here are some of my projects you can explore:
 - [AWS Cloud Tutorials on Medium](https://medium.com/@michaeltrinity/aws-cloud-tutorials)
 
 ## 🎯 What I'm Currently Learning
-- Diving deeper into MLOps
-- Exploring the latest trends in vulnerability management
-- Enhancing my expertise in cybersecurity, particularly detection & response
+- Diving deeper into AI
+- Exploring the latest trends in cloud security
+- Enhancing my expertise in cloud security
 
 ## 📝 Let's Connect!
 Feel free to connect with me for collaborations, job opportunities, or anything tech-related.
