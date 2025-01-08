@@ -21,7 +21,7 @@ Here are some of my projects you can explore:
 ## 📝 Let's Connect!
 Feel free to connect with me for collaborations, job opportunities, or anything tech-related.
 
-- Email: [michael@example.com](mailto:m9trinity@gmail.com.com)
+- Email: [M9trinity@gmail.com](mailto:m9trinity@gmail.com)
 - LinkedIn: [Michael Trinity on LinkedIn](https://www.linkedin.com/in/michaeltrinity/)
 - Medium: [Follow me on Medium](https://medium.com/@michaeltrinity)
 
