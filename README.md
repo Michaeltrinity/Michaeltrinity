@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Cloud Techincal Advisor, DevOps Enthusiast, and 3x AWS Certified.
 
 - 💼 Currently exploring new opportunities in tech.
-- 💻 Technologies: AWS, Python, sql, Terraform, Docker, Kubernetes
+- 💻 Technologies: AWS, Python, SQL, Terraform, Docker, Kubernetes
 - 🧑‍💻 Working on: Building cloud-native applications and diving deep into security and AI/ML solutions.
 
 ## 📂 My Work
